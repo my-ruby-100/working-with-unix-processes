@@ -2,7 +2,7 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Sat May  7 23:19:35 CST 2022` | -
+`Mon Aug  5 15:20:31 CST 2024` | `Sat May  7 23:19:35 CST 2022`
 
 
 ### 9.1 进程命名
@@ -13,3 +13,4 @@
 ## Ref
 
 * [`Process#setproctitle`](https://docs.ruby-lang.org/en/3.1/Process.html#method-c-setproctitle)
+* <https://docs.ruby-lang.org/en/3.2/English.html>
