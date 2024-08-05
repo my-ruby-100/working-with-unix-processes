@@ -2,10 +2,11 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Sat May  7 21:56:17 CST 2022` | -
+`Mon Aug  5 10:58:23 CST 2024` | `Sat May  7 21:56:17 CST 2022`
 
 * 系统中运行的每个进程都有对应的父进程。每个进程都知道其父进程的标识符（称为 `ppid`）
-* [`Process.ppid`](https://docs.ruby-lang.org/en/3.1/Process.html#method-c-ppid)
+* [`Process.ppid`](https://docs.ruby-lang.org/en/3.2/Process.html#method-c-ppid)
+
 
 ### 4.3 系统调用
 
