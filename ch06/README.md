@@ -2,7 +2,7 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Sat May  7 22:32:00 CST 2022` | -
+`Mon Aug  5 12:26:15 CST 2024` | `Sat May  7 22:32:00 CST 2022`
 
 
 ### 6.1 找出限制
@@ -26,3 +26,8 @@
 ### 6.7 系统调用
 
 * `getrlimit(2)`、`setrlimit(2)`
+
+
+## Ref
+
+* [Linux 系统参数调整：ulimit 与 sysctl - 於清樂 - 博客园](https://www.cnblogs.com/kirito-c/p/12254664.html)
