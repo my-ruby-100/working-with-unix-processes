@@ -2,15 +2,15 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Sat May  7 22:28:29 CST 2022` | -
+`Mon Aug  5 10:58:50 CST 2024 ` | `Sat May  7 22:28:29 CST 2022`
 
 * 文件描述符代表打开的文件
 
 ### 5.2 描述符代表资源
 
-* [`IO`](https://docs.ruby-lang.org/en/3.1/IO.html) 类描述了打开的资源。任意一个 IO 对象都有一个相关联的文件描述符编号。可以使用 [`IO#fileno`](https://docs.ruby-lang.org/en/3.1/IO.html#method-i-fileno) 进行访问
+* [`IO`](https://docs.ruby-lang.org/en/3.2/IO.html) 类描述了打开的资源。任意一个 IO 对象都有一个相关联的文件描述符编号。可以使用 [`IO#fileno`](https://docs.ruby-lang.org/en/3.2/IO.html#method-i-fileno) 进行访问
 
-打开多个资源
+**打开多个资源**
 
 * 所分配的文件描述符是尚未使用的最小的数值
 * 资源一旦关闭，对应的文件描述符的编号就又能够使用了
