@@ -2,7 +2,7 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Sun May  8 10:00:35 CST 2022` | -
+`Tue Aug  6 12:24:37 CST 2024` | `Sun May  8 10:00:35 CST 2022`
 
 > [signals](https://docs.ruby-lang.org/en/3.1/signals_rdoc.html)
 
