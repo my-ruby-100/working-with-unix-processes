@@ -2,10 +2,11 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Sat May  7 10:57:06 CST 2022` | -
+`Tue Aug  6 12:17:04 CST 2024` | `Sat May  7 10:57:06 CST 2022`
 
 ### 15.1 等待终有果
 
+* 内核会一直保留已退出的子进程的状态信息
 * [`Process#detach`](https://docs.ruby-lang.org/en/3.1/Process.html#method-c-detach) : 生成一个新线程，这个线程的唯一工作就是等待指定的子进程结束
 
 
